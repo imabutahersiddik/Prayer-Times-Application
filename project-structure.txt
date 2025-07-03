@@ -1,0 +1,15 @@
+prayer-times/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── app.js
+│   └── data/
+│       ├── locations.json
+│       └── prayer_times.json
+├── includes/
+│   └── functions.php
+├── api/
+│   └── prayer-times.php
+├── index.php
+└── README.md
