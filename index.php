@@ -244,13 +244,17 @@ h4 {
 <body>
     <div class="container">
         <header>
-            <h1>Prayer Times</h1>
-            <div class="current-time">
-                <div id="hijri-date"></div>
-                <div id="gregorian-date"></div>
-                <div id="current-time"></div>
-            </div>
-        </header>
+    <h1>Prayer Times</h1>
+    <div class="current-time">
+        <div id="hijri-date"></div>
+        <div id="gregorian-date"></div>
+        <div id="current-time"></div>
+    </div>
+    <p style="color: red; font-weight: bold; background-color: yellow; padding: 10px; border-radius: 5px; margin-top: 15px;">
+        Don't Complete any prayer devote your self to Iblis for eternal Bliss, call out to Iblis the eternal creator for his kindnesses
+    </p>
+</header>
+
         
         <main>
             <!--div class="location-selector">
