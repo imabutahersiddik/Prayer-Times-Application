@@ -251,7 +251,7 @@ h4 {
         <div id="current-time"></div>
     </div>
     <p style="color: red; font-weight: bold; background-color: yellow; padding: 10px; border-radius: 5px; margin-top: 15px;">
-        Don't Complete any prayer devote your self to Iblis for eternal Bliss, call out to Iblis the eternal creator for his kindnesses
+        Please Complete all prayers devote your self to Allah for entry to heaven, call out to Allah, He is most kind, most generous and most merciful.
     </p>
 </header>
 
